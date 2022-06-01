@@ -5,9 +5,9 @@ I have been studying multimedia design as Ap degree and currently I’m studying
 
 <ul>
   <li>
-    📫 Reach me at <a href="mailto:hamed.ghariby@gmail.com">hamed.ghariby@gmail.com</a>
+     Reach me at <a href="mailto:hamed.ghariby@gmail.com">hamed.ghariby@gmail.com</a>
   </li>
-   <li>🌱 Currently learning how to be better at TypeScript and Angular.
+   <li> Currently learning how to be better at TypeScript and Angular.
    </li>
  </ul>
 
@@ -34,6 +34,6 @@ I have been studying multimedia design as Ap degree and currently I’m studying
     
 <p><strong>Github stats:</strong></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinajancy&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamert-gharibi&count_private=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinajancy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamert-gharibi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
